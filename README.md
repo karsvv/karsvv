@@ -12,6 +12,9 @@
 ${{\color{#A3857C}{\textsf{I can be offtab or afk often, so just whisp me to interact!\ \}}}}$
 </p>
 
+<p align="right">
+<img width="20%" height="10%" alt="image" src="https://files.catbox.moe/r8klqt.gif" /> 
+
 <br>
 <br>
 
