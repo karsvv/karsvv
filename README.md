@@ -18,6 +18,8 @@ ${{\color{#461221}\Large{\textsf{BFYI / Before You Interact\ }}}}$
 <p align="left"> <img width="20" height="20" alt="image" src="https://epic.crd.co/assets/images/gallery09/881f2444.gif?v=44f86f0d" />
 I can be often afk, whether I'm using sleeping emote or not so please whisper to interact
 <p align="left"> <img width="20" height="20" alt="image" src="https://epic.crd.co/assets/images/gallery09/881f2444.gif?v=44f86f0d" />
+Listening or talking.. I do both, however I may not immediatelly be a big talker when we chat for the first time, but I'm super friendly.. promise <img width="20" height="20" alt="image" src="https://decohoard.carrd.co/assets/images/gallery137/03e2f1a9.gif?v=e0827b7e" />
+<p align="left"> <img width="20" height="20" alt="image" src="https://epic.crd.co/assets/images/gallery09/881f2444.gif?v=44f86f0d" />
 I don't mind c+h , feel free to do it so <img width="20" height="20" alt="image" src="https://biscuit.crd.co/assets/images/gallery03/3e21ed03.gif?v=cc1c6dfa" />
 <p align="left"> <img width="20" height="20" alt="image" src="https://epic.crd.co/assets/images/gallery09/881f2444.gif?v=44f86f0d" />
 I like making ponies and would love to gift them freely if requested
@@ -86,6 +88,8 @@ ${{\color{#461221}\Large{\textsf{DNI / Do Not Interact\ }}}}$
 Basic dni criteria; racists, homophobes and transphobes etc
 <p align="left"> <img width="20" height="20" alt="image" src="https://decohoard.carrd.co/assets/images/gallery115/a03f9680.gif?v=e0827b7e" />
 Rude for no reason or trying to make a fuss, please don't seek unreasonable conflicts, it doesn't make you any better
+<p align="left"> <img width="20" height="20" alt="image" src="https://decohoard.carrd.co/assets/images/gallery115/a03f9680.gif?v=e0827b7e" />
+Spoilers grrr
 <p align="left"> <img width="20" height="20" alt="image" src="https://decohoard.carrd.co/assets/images/gallery115/a03f9680.gif?v=e0827b7e" />
 Copied avatars from Pinterest
 <p align="left"> <img width="20" height="20" alt="image" src="https://decohoard.carrd.co/assets/images/gallery115/a03f9680.gif?v=e0827b7e" />
