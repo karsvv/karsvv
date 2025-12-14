@@ -106,6 +106,12 @@ Apologists of any of those in dni
 
 <p align="center">
 ${{\color{#591729}{\textsf{Follow me on my Patreon for free <3\ }}}}$
+</p>
+  
+<p align="center">
+
+[rentry](https://rentry.co/karsvvs) [patreon](https://www.patreon.com/cw/hpnos)
+</p>
 
 <br>
 <br>
