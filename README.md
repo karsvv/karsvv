@@ -66,5 +66,16 @@ ${{\color{#999999}{\textsf{kins <3\ }}}}$
 
 <img width="10%" height="10%" alt="image" src="https://files.catbox.moe/ra8a60.jpg" />
 
+<img width="11%" height="11%" alt="image" src="https://i.pinimg.com/736x/d9/d7/3c/d9d73c8d7b719135bae7ee8a9773761b.jpg" />
+
+
+
 <br>
 <br>
+<br>
+<br>
+
+<img width="7%" height="8%" alt="image" src="https://files.catbox.moe/92redj.jpg" />
+<img width="8%" height="8%" alt="image" src="https://files.catbox.moe/y7kdbo.jpg" />
+
+
