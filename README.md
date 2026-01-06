@@ -41,12 +41,16 @@ ${{\color{#999999}{\textsf{top favs eehe\ }}}}$
 <p align="center">
 <img width="5%" height="5%" alt="image" src="https://files.catbox.moe/p2fx2z.gif" />
 <img width="6%" height="6%" alt="image" src="https://files.catbox.moe/j5iv1q.gif" />
+<img width="7%" height="7%" alt="image" src="https://files.catbox.moe/biegtb.gif" />
+<img width="7%" height="7%" alt="image" src="https://files.catbox.moe/ghxpc8.gif" />
 <img width="4%" height="4%" alt="image" src="https://files.catbox.moe/dgzqso.gif" />
 <img width="5%" height="5%" alt="image" src="https://files.catbox.moe/ccb3ef.gif" />
 <img width="6%" height="6%" alt="image" src="https://files.catbox.moe/j66fnt.gif" />
 <img width="7%" height="7%" alt="image" src="https://files.catbox.moe/u2aeaq.gif" />
 <img width="7%" height="7%" alt="image" src="https://files.catbox.moe/d2km8k.gif" />
 <img width="11%" height="11%" alt="image" src="https://files.catbox.moe/72r5xy.gif" />
+
+
 
 
 <br>
