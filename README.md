@@ -97,6 +97,7 @@ ${{\color{#999999}{\textsf{stamps that have every right to be here\ }}}}$
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/da230473bc621f19608a84c24e39106d/88ffb306354c2499-03/s100x200/e0b1b7ad2417baf66bd9fa5594f3e39a00c9d84b.gifv" />
 
+
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/818d5e0ea73ceb8d1e2df472f4cce733/88ffb306354c2499-13/s100x200/f15ed82a97211f16ed3ad80129f4e6a39fae409b.pnj" />
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/d6008f03304a6c2f6fbc9411c59edfd5/88ffb306354c2499-49/s100x200/6b827515a0b2b929644d874a40a09acdc32b614a.pnj" />
@@ -112,6 +113,7 @@ ${{\color{#999999}{\textsf{stamps that have every right to be here\ }}}}$
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/f44e9de2470141be6035a1e1b0600628/9d35294779ac0ce7-93/s100x200/9b21c446b96c5e104839c228e69a85e893973938.gifv" />
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/2d19f54dcbb0ebecb469e8a6184ac905/9d35294779ac0ce7-e7/s100x200/c4bd65c49f44608f8c777124a926a6237d658ca6.gifv" />
+
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/8b358f6c08f821cd0c0548f1fee8f107/9d35294779ac0ce7-39/s100x200/faf125c5144398d4e9ac6cc1d80b38a0d2023c16.gifv" />
 
@@ -129,6 +131,7 @@ ${{\color{#999999}{\textsf{stamps that have every right to be here\ }}}}$
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/588b20d82f86c0d5fdf6a897f1fb03dd/d9e510424094fc01-96/s250x400/f0e1034771e6ecb18edccc87d0b7588758070b82.gifv" />
 
+
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/ab9001c674b2b1f01c23d3569e072df7/d9e510424094fc01-dd/s250x400/51d7e435382449cd4ca2faaf8da50f12a4a08079.gifv" />
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/aee40f576b52cf7934654a8935f5a69f/18da8bdfad19ebd4-77/s100x200/e78c345560c29d5c2cea79b153304bfd1d52a655.gifv" />
@@ -145,9 +148,28 @@ ${{\color{#999999}{\textsf{stamps that have every right to be here\ }}}}$
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/82470db468f220aa2b9e835bc5b82c12/7edbd016635ef3d8-b3/s100x200/cf7bcd308c8926a99d96f9d672ffc32053aa684a.gifv" />
 
+
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/fa016293fc43dc999a683ce7bff100ca/7edbd016635ef3d8-9e/s100x200/b59fae99d4067cbbcab3bf4711e0c18659061d4e.pnj" />
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/761fced05f5e6c9dcfb32185b7beac74/b6e8807837c7e9a8-d8/s100x200/66ace8bfbfc955938f2c890f9d3aad18d28d34e2.pnj" />
+
+<img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/f7d826f3673d656665555f2413f73dd8/15e15477c221291f-2c/s100x200/087911695163aa468f67374de9299c66b9054507.gifv" />
+
+<img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/3e7e6621c23f9de9374f9df05d1d043b/15e15477c221291f-a9/s250x400/0c7883924f96623c94949dd50176e88df66bb943.gifv" />
+
+<img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/6d8501e99eeeafc933d20748f53e02c9/15e15477c221291f-7b/s250x400/6477204a098e72f43381f31d11cd87ea25772d00.gifv" />
+
+<img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/0d52cfc77fac7ae79ac449c6a12ab55a/15e15477c221291f-c0/s250x400/0fa9bbfee8003144831059f16a60ff7f8aff0ca9.gifv" />
+
+<img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/d19a38112a66e174d30559f53ec9497c/15e15477c221291f-87/s250x400/f66f47f8406ad6b9840837a18719a6e1e7f51928.gifv" />
+
+<img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/f67998023a7d77ace95eb8e01d46083c/15e15477c221291f-df/s250x400/622f1aa557411480e3f074e8b995ccb209f6a641.gifv" />
+
+
+
+
+
+
 
 
 <br>
