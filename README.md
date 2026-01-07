@@ -75,7 +75,8 @@ ${{\color{#999999}{\textsf{kins <3\ }}}}$
 
 
 <p align="center">
-<img width="100%" height="100%" alt="image" src="https://files.catbox.moe/tfuc23.png" />
+<img width="100%" height="100%" alt="image" src="https://pixelbank.neocities.org/div/purple/121.gif" />
+
 
 <p align="center">
 ${{\color{#999999}{\textsf{stamps that have every right to be here\ }}}}$
@@ -199,6 +200,9 @@ ${{\color{#999999}{\textsf{stamps that have every right to be here\ }}}}$
 
 
 <p align="center">
+<img width="11%" height="11%" alt="image" src="https://watermelon.crd.co/assets/images/gallery19/984bba30.gif?v=e2e5e274" />
+
+  
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/82bef0adaca60a2707668f47f4129277/b6e8807837c7e9a8-c3/s250x400/9a23427f6f817301a56a61764548b93ad3b58ee0.gifv" />
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/a995968e1b0a942224d69e9cc70950b5/7edbd016635ef3d8-0e/s250x400/6b456339d33d95bcaa06e43581c058f1c8c35ee3.gifv" />
@@ -211,9 +215,14 @@ ${{\color{#999999}{\textsf{stamps that have every right to be here\ }}}}$
 
 <img width="11%" height="11%" alt="image" src="https://64.media.tumblr.com/1a1e31772772b95481ca1f8699438928/be8733587c7e8dbc-2e/s250x400/23f27a880bf650a96a60c62b13b905a8a6ee1cf4.gifv" />
 
+
+<img width="11%" height="11%" alt="image" src="https://watermelon.crd.co/assets/images/gallery19/984bba30.gif?v=e2e5e274" />
+
 <br>
 
+
 <p align="center">
+
 <img width="11%" height="11%" alt="image" src="https://decohoard.carrd.co/assets/images/gallery23/d49f2998.gif?v=e0827b7e" />
 
 
@@ -222,7 +231,9 @@ ${{\color{#999999}{\textsf{stamps that have every right to be here\ }}}}$
 <br>
 <br>
 
+<p align="center">
 <img width="7%" height="8%" alt="image" src="https://files.catbox.moe/92redj.jpg" />
 <img width="8%" height="8%" alt="image" src="https://files.catbox.moe/y7kdbo.jpg" />
 
-
+<p align="center">
+<img width="11%" height="11%" alt="image" src="https://watermelon.crd.co/assets/images/gallery19/034806c6.gif?v=e2e5e274" />
