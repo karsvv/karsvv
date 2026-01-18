@@ -236,4 +236,7 @@ ${{\color{#999999}{\textsf{stamps that have every right to be here\ }}}}$
 <img width="8%" height="8%" alt="image" src="https://files.catbox.moe/y7kdbo.jpg" />
 
 <p align="center">
+  https://tamanotchi.world/26782c
+
+<p align="center">
 <img width="11%" height="11%" alt="image" src="https://watermelon.crd.co/assets/images/gallery19/034806c6.gif?v=e2e5e274" />
