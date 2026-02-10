@@ -1,4 +1,4 @@
-<p align="center"> <img width="50%" height="40" alt="image" src="https://missskunky-graphics.neocities.org/assets/graphics/dividers/misc/aesthetic18.gif" />
+<p align="center"> <img width="50%" height="50%" alt="image" src="https://files.catbox.moe/545u2i.png" />
 <p align="center"> <img width="50%" height="100%" alt="image" src="https://i.pinimg.com/1200x/93/74/ae/9374ae8b4a1b5ebdd139157b38d3010c.jpg" />
 
   ---
