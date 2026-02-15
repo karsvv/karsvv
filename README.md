@@ -1,7 +1,12 @@
-<p align="center"> <img width="50%" height="50%" alt="image" src="https://files.catbox.moe/545u2i.png" />
+<p align="center"> <img width="30%" height="30%" alt="image" src="https://files.catbox.moe/dh24ne.png" />
+
+<p align="center">  Our awesome group
+<p align="center"> Credits to Cas :3
+
+---
+
 <p align="center"> <img width="50%" height="100%" alt="image" src="https://i.pinimg.com/1200x/93/74/ae/9374ae8b4a1b5ebdd139157b38d3010c.jpg" />
 
-  ---
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[tamanotchi](https://tamanotchi.world/26782c) ㅤㅤㅤㅤㅤㅤㅤㅤ[cool](https://rentry.co/karsidkstuf)ㅤㅤㅤㅤㅤㅤㅤㅤ[magma](https://magma.com/artist/fruity-kars-is-kars/gallery)
