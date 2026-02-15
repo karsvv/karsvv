@@ -7,6 +7,10 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=35klk28jizaz9cufg49rtw4jr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=35klk28jizaz9cufg49rtw4jr&redirect=true)
 
+<p align="center"
+  
+[![Hits](https://hits.sh/github.com/RadioheadLover/hits.svg?label=attempts%20to%20steal%20stone%20of%20aja&color=443a49&labelColor=5e5363)](https://hits.sh/github.com/RadioheadLover/hits/)
+
 
 ---
 
