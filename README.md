@@ -3,9 +3,9 @@
 <p align="center">  Our awesome group
 <p align="center"> Credits to Cas :3
   
-<p align="center"> 
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=35klk28jizaz9cufg49rtw4jr&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center"
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31db72c7lro57qvwm6xlmjs4ec7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=750c57&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
